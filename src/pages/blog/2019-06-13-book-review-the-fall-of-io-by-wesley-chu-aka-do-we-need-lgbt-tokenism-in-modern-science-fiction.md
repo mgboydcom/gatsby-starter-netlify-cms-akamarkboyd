@@ -5,8 +5,8 @@ title: >-
   modern science fiction?)
 date: 2019-06-13T18:35:42.550Z
 description: >-
-  Does all science fiction need to give spell out that there will be LGBT people
-  in the future too?
+  Does all science fiction need to spell out that there will be LGBT people in
+  the future too?
 featuredpost: true
 featuredimage: /img/fall-of-io-cover-.jpg
 tags:
