@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: AKA Mark Boyd
+image: /img/akaheader-narrow.png
+heading: 'Welcome to AKA Mark Boyd '
+subheading: 'Fetish, fiction, features'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: AKA the shpiel
+  description: 'Upcoming events, fiction-in-progress, and half-baked ruminations '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Mark Boyd is a fiction writer currently working on a comedy anthology that
+  combines an exploration of sexuality and spirituality through outlandish yet
+  relatable stories. He has performed his work at Boxer Barcelona, at New York’s
+  Bureau of General Services - Queer Division, and at leather fetish clubs
+  Jackhammer and Ramrod.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
