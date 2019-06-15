@@ -15,13 +15,20 @@ description: >-
   Jackhammer and Ramrod.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/book-sampler.png
+      text: >-
+        Subscribe to receive each new comedy fetish story in the lead up to the
+        release of my anthology in October 2019. Already you can read:
+
+        0 The Dildo Sigil
+
+        1 The Collared Master
+
+        2 The Perfect Porn Trailer
+
+        3 Mama Torito
+
+        6 Follow Your Fetish
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -42,12 +49,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: ' '
+  description: ' '
 main:
   heading: Great coffee with no compromises
   description: >
