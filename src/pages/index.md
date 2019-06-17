@@ -18,23 +18,15 @@ intro:
     - image: /img/book-sampler.png
       text: >-
         Subscribe to receive each new comedy fetish story in the lead up to the
-        release of my anthology in October 2019. Already you can read:
-
-        0 The Dildo Sigil
-
-        1 The Collared Master
-
-        2 The Perfect Porn Trailer
-
-        3 Mama Torito
-
-        6 Follow Your Fetish
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        release of my anthology in October 2019. Five stories in the series are
+        already available for your reading pleasure with another four being
+        prepared for the October launch.
+    - image: /img/mark-with-cover-art.jpg
+      text: >-
+        Mark (shown here with the painting that is the covert art for the Pr0n
+        series, by Joan Sarria) writes science fiction, comedy and gay fetish
+        fiction, features for European fetish magazine AlphaTribe, and blogs on
+        books, contemporary life and living according to your values.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
