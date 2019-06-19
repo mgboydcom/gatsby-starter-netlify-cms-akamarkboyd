@@ -27,13 +27,14 @@ intro:
         series, by Joan Sarria) writes science fiction, comedy and gay fetish
         fiction, features for European fetish magazine AlphaTribe, and blogs on
         books, contemporary life and living according to your values.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/mark-boyd-reading-bcn.png
+      text: >-
+        With the support of local businesses like fetishwear BOXER, Mark has
+        done readings and spoken word events in Barcelona (in BOXER's factory
+        and gallery space), in Berlin (on the rooftop of the Axel gay hotel), in
+        New York City (at the cultural space Bureau of General Services - Queer
+        Division), and at fetish clubs Jackhammer (in Chicago) and Ramrod (in
+        Fort Lauderdale).
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
