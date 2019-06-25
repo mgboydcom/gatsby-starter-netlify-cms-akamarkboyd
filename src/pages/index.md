@@ -33,15 +33,14 @@ intro:
         done readings and spoken word events in Barcelona (in BOXER's factory
         and gallery space), in Berlin (on the rooftop of the Axel gay hotel), in
         New York City (at the cultural space Bureau of General Services - Queer
-        Division), and at fetish clubs Jackhammer (in Chicago) and Ramrod (in
-        Fort Lauderdale).
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Division), in Provincetown, and at fetish clubs Jackhammer (in Chicago)
+        and Ramrod (in Fort Lauderdale).
+    - image: /img/bgsqd-reading.png
+      text: >-
+        Mark Boyd is currently working on an anthology of comedy fetish short
+        stories, called the Pr0n Series (Volume 1), to be released in October
+        2019. Story excerpts from the series, along with some of his SF stories,
+        are shared on this site.
   heading: ' '
   description: ' '
 main:
