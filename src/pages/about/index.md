@@ -1,19 +1,11 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Thanks for checking out my site
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Using templates
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I am so over using WordPress. It has become far too complicated for me to set up a simple blog site using that software and i have found that with my business site, it is extremely slow to load. So i am using a cool new service called Netlify that lets me create a fast loading blog with a simple interface that isnt crowded out by all of the suggested plugins and addons that WordPress requires, and with a simple interface for writing content. But, the down side is that it does require some coding skills that i do not have as yet, so while i am learning, there will be headings and footers and menu options that relate to the template and not my site. Bear with me and just read the blog content if you do happen to stumble across this as i am building.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Should we connect on social media?
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I will take up this issue in a blog post, but i am a bit conflicted about using social media. I know if i am serious about sharing my work with an audience, i do need to be on social media, but at the moment i don't want to be beholden to any of the Facebook channels. I will be testing a few alternative ways to share my content and build my audience, so any feedback on where to find you and how to interact with you would be really great.
